@@ -1,0 +1,87 @@
+Jan 06 07:58:46 ubuntu-linux-2404 kernel: usb 3-1: USB disconnect, device number 2
+-- Boot 1b3ad6844ae0499abd62e44785db4c66 --
+Dec 26 22:17:40 ubuntu-linux-2404 sshd[96330]: Accepted password for user2 from 10.211.55.3 port 33048 ssh2
+Dec 26 22:17:40 ubuntu-linux-2404 sshd[96330]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[1]: Created slice user-1001.slice - User Slice of UID 1001.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[1]: Starting user-runtime-dir@1001.service - User Runtime Directory /run/user/1001...
+Dec 26 22:17:40 ubuntu-linux-2404 systemd-logind[1172]: New session 157 of user user2.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[1]: Finished user-runtime-dir@1001.service - User Runtime Directory /run/user/1001.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[1]: Starting user@1001.service - User Manager for UID 1001...
+Dec 26 22:17:40 ubuntu-linux-2404 (systemd)[96338]: pam_unix(systemd-user:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Queued start job for default target default.target.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Created slice app.slice - User Application Slice.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Created slice session.slice - User Core Session Slice.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Started ubuntu-report.path - Pending report trigger for Ubuntu Report.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Started launchpadlib-cache-clean.timer - Clean up old files in the Launchpadlib cache.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Reached target paths.target - Paths.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Reached target timers.target - Timers.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Starting dbus.socket - D-Bus User Message Bus Socket...
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Listening on dirmngr.socket - GnuPG network certificate management daemon.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Listening on gcr-ssh-agent.socket - GCR ssh-agent wrapper.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Listening on gnome-keyring-daemon.socket - GNOME Keyring daemon.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Listening on gpg-agent-browser.socket - GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Listening on gpg-agent-extra.socket - GnuPG cryptographic agent and passphrase cache (restricted).
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Starting gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation)...
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Listening on gpg-agent.socket - GnuPG cryptographic agent and passphrase cache.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Listening on keyboxd.socket - GnuPG public key management service.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Listening on pipewire-pulse.socket - PipeWire PulseAudio.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Listening on pipewire.socket - PipeWire Multimedia System Sockets.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Listening on pk-debconf-helper.socket - debconf communication socket.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Listening on snapd.session-agent.socket - REST API socket for snapd user session agent.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Listening on speech-dispatcher.socket - Speech Dispatcher Socket.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Listening on dbus.socket - D-Bus User Message Bus Socket.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Listening on gpg-agent-ssh.socket - GnuPG cryptographic agent (ssh-agent emulation).
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Reached target sockets.target - Sockets.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Reached target basic.target - Basic System.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[1]: Started user@1001.service - User Manager for UID 1001.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[1]: Started session-157.scope - Session 157 of User user2.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Starting gnome-initial-setup-copy-worker.service - GNOME Initial Setup Copy Worker...
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Started pipewire.service - PipeWire Multimedia Service.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Started filter-chain.service - PipeWire filter chain daemon.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Started wireplumber.service - Multimedia Service Session Manager.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Started pipewire-pulse.service - PipeWire PulseAudio.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Finished gnome-initial-setup-copy-worker.service - GNOME Initial Setup Copy Worker.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Reached target default.target - Main User Target.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Startup finished in 180ms.
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Starting dbus.service - D-Bus User Message Bus...
+Dec 26 22:17:40 ubuntu-linux-2404 dbus-daemon[96391]: [session uid=1001 pid=96391] AppArmor D-Bus mediation is enabled
+Dec 26 22:17:40 ubuntu-linux-2404 systemd[96338]: Started dbus.service - D-Bus User Message Bus.
+Dec 26 22:17:40 ubuntu-linux-2404 rtkit-daemon[1795]: Supervising 8 threads of 5 processes of 1 users.
+Dec 26 22:17:40 ubuntu-linux-2404 rtkit-daemon[1795]: Supervising 8 threads of 5 processes of 1 users.
+Dec 26 22:17:40 ubuntu-linux-2404 rtkit-daemon[1795]: Supervising 8 threads of 5 processes of 1 users.
+Dec 26 22:17:40 ubuntu-linux-2404 rtkit-daemon[1795]: Supervising 8 threads of 5 processes of 1 users.
+Dec 26 22:17:40 ubuntu-linux-2404 rtkit-daemon[1795]: Supervising 8 threads of 5 processes of 1 users.
+Dec 26 22:17:40 ubuntu-linux-2404 rtkit-daemon[1795]: Supervising 8 threads of 5 processes of 1 users.
+Dec 26 22:17:40 ubuntu-linux-2404 rtkit-daemon[1795]: Supervising 8 threads of 5 processes of 2 users.
+Dec 26 22:17:40 ubuntu-linux-2404 rtkit-daemon[1795]: Supervising 8 threads of 5 processes of 2 users.
+Dec 26 22:17:40 ubuntu-linux-2404 rtkit-daemon[1795]: Supervising 8 threads of 5 processes of 2 users.
+Dec 26 22:17:40 ubuntu-linux-2404 rtkit-daemon[1795]: Supervising 8 threads of 5 processes of 2 users.
+Dec 26 22:17:40 ubuntu-linux-2404 rtkit-daemon[1795]: Supervising 8 threads of 5 processes of 2 users.
+Dec 26 22:17:40 ubuntu-linux-2404 pipewire[96357]: mod.jackdbus-detect: Failed to receive jackdbus reply: org.freedesktop.DBus.Error.ServiceUnknown: The name org.jackaudio.service was not provided by any .service files
+Dec 26 22:17:40 ubuntu-linux-2404 rtkit-daemon[1795]: Supervising 8 threads of 5 processes of 2 users.
+Dec 26 22:17:40 ubuntu-linux-2404 wireplumber[96362]: SPA handle 'api.libcamera.enum.manager' could not be loaded; is it installed?
+Dec 26 22:17:40 ubuntu-linux-2404 wireplumber[96362]: PipeWire's libcamera SPA missing or broken. libcamera not supported.
+Dec 26 22:17:40 ubuntu-linux-2404 wireplumber[96362]: BlueZ system service is not available
+Dec 26 22:17:41 ubuntu-linux-2404 sshd[96330]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:17:41 ubuntu-linux-2404 systemd[1]: session-157.scope: Deactivated successfully.
+Dec 26 22:17:41 ubuntu-linux-2404 systemd-logind[1172]: Session 157 logged out. Waiting for processes to exit.
+Dec 26 22:17:41 ubuntu-linux-2404 sshd[96454]: Accepted password for user2 from 10.211.55.3 port 33064 ssh2
+Dec 26 22:17:41 ubuntu-linux-2404 sshd[96454]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:17:41 ubuntu-linux-2404 systemd-logind[1172]: Removed session 157.
+Dec 26 22:17:41 ubuntu-linux-2404 systemd-logind[1172]: New session 159 of user user2.
+Dec 26 22:17:41 ubuntu-linux-2404 systemd[1]: Started session-159.scope - Session 159 of User user2.
+Dec 26 22:17:41 ubuntu-linux-2404 wireplumber[96362]: BlueZ system service is not available
+Dec 26 22:17:41 ubuntu-linux-2404 sudo[96522]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -i /home/user2/p7zip-full.deb
+Dec 26 22:17:41 ubuntu-linux-2404 sudo[96522]: pam_unix(sudo:session): session opened for user root(uid=0) by user2(uid=1001)
+Dec 26 22:17:41 ubuntu-linux-2404 sudo[96522]: pam_unix(sudo:session): session closed for user root
+Dec 26 22:17:41 ubuntu-linux-2404 sshd[96536]: Accepted password for user2 from 10.211.55.3 port 33070 ssh2
+Dec 26 22:17:41 ubuntu-linux-2404 sshd[96536]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:17:41 ubuntu-linux-2404 systemd-logind[1172]: New session 160 of user user2.
+Dec 26 22:17:41 ubuntu-linux-2404 systemd[1]: Started session-160.scope - Session 160 of User user2.
+Dec 26 22:17:41 ubuntu-linux-2404 sshd[96454]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:17:41 ubuntu-linux-2404 systemd-logind[1172]: Session 159 logged out. Waiting for processes to exit.
+Dec 26 22:17:41 ubuntu-linux-2404 systemd[1]: session-159.scope: Deactivated successfully.
+Dec 26 22:17:41 ubuntu-linux-2404 systemd-logind[1172]: Removed session 159.
+Dec 26 22:17:41 ubuntu-linux-2404 sudo[96600]:    user2 : PWD=/home/user2 ; USER=root ; COMMAND=/usr/bin/dpkg -s p7zip-full
+Dec 26 22:17:41 ubuntu-linux-2404 sudo[96600]: pam_unix(sudo:session): session opened for user root(uid=0) by user2(uid=1001)
+Dec 26 22:17:41 ubuntu-linux-2404 sudo[96600]: pam_unix(sudo:session): session closed for user root

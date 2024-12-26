@@ -1,0 +1,123 @@
+Jan 06 07:58:46 ubuntu-linux-2404 kernel: usb 3-1: USB disconnect, device number 2
+-- Boot 1b3ad6844ae0499abd62e44785db4c66 --
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101206]: Accepted password for user2 from 10.211.55.3 port 37402 ssh2
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101206]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: New session 214 of user user2.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd[1]: Started session-214.scope - Session 214 of User user2.
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101127]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:22 ubuntu-linux-2404 systemd[1]: session-213.scope: Deactivated successfully.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: Session 213 logged out. Waiting for processes to exit.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: Removed session 213.
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101206]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:22 ubuntu-linux-2404 systemd[1]: session-214.scope: Deactivated successfully.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: Session 214 logged out. Waiting for processes to exit.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: Removed session 214.
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101279]: Accepted password for user2 from 10.211.55.3 port 37414 ssh2
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101279]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: New session 215 of user user2.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd[1]: Started session-215.scope - Session 215 of User user2.
+Dec 26 22:23:22 ubuntu-linux-2404 wireplumber[99107]: BlueZ system service is not available
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101346]: Accepted password for user2 from 10.211.55.3 port 37418 ssh2
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101346]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: New session 216 of user user2.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd[1]: Started session-216.scope - Session 216 of User user2.
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101279]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:22 ubuntu-linux-2404 systemd[1]: session-215.scope: Deactivated successfully.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: Session 215 logged out. Waiting for processes to exit.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: Removed session 215.
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101346]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:22 ubuntu-linux-2404 systemd[1]: session-216.scope: Deactivated successfully.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: Session 216 logged out. Waiting for processes to exit.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: Removed session 216.
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101405]: Accepted password for user2 from 10.211.55.3 port 37428 ssh2
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101405]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: New session 217 of user user2.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd[1]: Started session-217.scope - Session 217 of User user2.
+Dec 26 22:23:22 ubuntu-linux-2404 wireplumber[99107]: BlueZ system service is not available
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101405]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:22 ubuntu-linux-2404 systemd[1]: session-217.scope: Deactivated successfully.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: Session 217 logged out. Waiting for processes to exit.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: Removed session 217.
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101481]: Accepted password for user2 from 10.211.55.3 port 37442 ssh2
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101481]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: New session 218 of user user2.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd[1]: Started session-218.scope - Session 218 of User user2.
+Dec 26 22:23:22 ubuntu-linux-2404 wireplumber[99107]: BlueZ system service is not available
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101481]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:22 ubuntu-linux-2404 systemd[1]: session-218.scope: Deactivated successfully.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: Session 218 logged out. Waiting for processes to exit.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: Removed session 218.
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101550]: Accepted password for user2 from 10.211.55.3 port 37444 ssh2
+Dec 26 22:23:22 ubuntu-linux-2404 sshd[101550]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:22 ubuntu-linux-2404 systemd-logind[1172]: New session 219 of user user2.
+Dec 26 22:23:22 ubuntu-linux-2404 systemd[1]: Started session-219.scope - Session 219 of User user2.
+Dec 26 22:23:22 ubuntu-linux-2404 wireplumber[99107]: BlueZ system service is not available
+Dec 26 22:23:23 ubuntu-linux-2404 sshd[101622]: Accepted password for user2 from 10.211.55.3 port 37454 ssh2
+Dec 26 22:23:23 ubuntu-linux-2404 sshd[101622]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:23 ubuntu-linux-2404 systemd-logind[1172]: New session 220 of user user2.
+Dec 26 22:23:23 ubuntu-linux-2404 systemd[1]: Started session-220.scope - Session 220 of User user2.
+Dec 26 22:23:23 ubuntu-linux-2404 sshd[101550]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:23 ubuntu-linux-2404 systemd-logind[1172]: Session 219 logged out. Waiting for processes to exit.
+Dec 26 22:23:23 ubuntu-linux-2404 systemd[1]: session-219.scope: Deactivated successfully.
+Dec 26 22:23:23 ubuntu-linux-2404 systemd-logind[1172]: Removed session 219.
+Dec 26 22:23:23 ubuntu-linux-2404 sshd[101622]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:23 ubuntu-linux-2404 systemd[1]: session-220.scope: Deactivated successfully.
+Dec 26 22:23:23 ubuntu-linux-2404 systemd-logind[1172]: Session 220 logged out. Waiting for processes to exit.
+Dec 26 22:23:23 ubuntu-linux-2404 sshd[101681]: Accepted password for user2 from 10.211.55.3 port 37458 ssh2
+Dec 26 22:23:23 ubuntu-linux-2404 sshd[101681]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:23 ubuntu-linux-2404 systemd-logind[1172]: Removed session 220.
+Dec 26 22:23:23 ubuntu-linux-2404 systemd-logind[1172]: New session 221 of user user2.
+Dec 26 22:23:23 ubuntu-linux-2404 systemd[1]: Started session-221.scope - Session 221 of User user2.
+Dec 26 22:23:23 ubuntu-linux-2404 wireplumber[99107]: BlueZ system service is not available
+Dec 26 22:23:23 ubuntu-linux-2404 sshd[101681]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:23 ubuntu-linux-2404 systemd[1]: session-221.scope: Deactivated successfully.
+Dec 26 22:23:23 ubuntu-linux-2404 sshd[101756]: Accepted password for user2 from 10.211.55.3 port 37474 ssh2
+Dec 26 22:23:23 ubuntu-linux-2404 systemd-logind[1172]: Session 221 logged out. Waiting for processes to exit.
+Dec 26 22:23:23 ubuntu-linux-2404 sshd[101756]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:23 ubuntu-linux-2404 systemd-logind[1172]: Removed session 221.
+Dec 26 22:23:23 ubuntu-linux-2404 systemd-logind[1172]: New session 222 of user user2.
+Dec 26 22:23:23 ubuntu-linux-2404 systemd[1]: Started session-222.scope - Session 222 of User user2.
+Dec 26 22:23:23 ubuntu-linux-2404 wireplumber[99107]: BlueZ system service is not available
+Dec 26 22:23:24 ubuntu-linux-2404 sshd[101756]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:24 ubuntu-linux-2404 systemd-logind[1172]: Session 222 logged out. Waiting for processes to exit.
+Dec 26 22:23:24 ubuntu-linux-2404 systemd[1]: session-222.scope: Deactivated successfully.
+Dec 26 22:23:24 ubuntu-linux-2404 systemd-logind[1172]: Removed session 222.
+Dec 26 22:23:24 ubuntu-linux-2404 sshd[101820]: Accepted password for user2 from 10.211.55.3 port 37490 ssh2
+Dec 26 22:23:24 ubuntu-linux-2404 sshd[101820]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:24 ubuntu-linux-2404 systemd-logind[1172]: New session 223 of user user2.
+Dec 26 22:23:24 ubuntu-linux-2404 systemd[1]: Started session-223.scope - Session 223 of User user2.
+Dec 26 22:23:24 ubuntu-linux-2404 wireplumber[99107]: BlueZ system service is not available
+Dec 26 22:23:24 ubuntu-linux-2404 sshd[101820]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:24 ubuntu-linux-2404 systemd[1]: session-223.scope: Deactivated successfully.
+Dec 26 22:23:24 ubuntu-linux-2404 systemd-logind[1172]: Session 223 logged out. Waiting for processes to exit.
+Dec 26 22:23:24 ubuntu-linux-2404 systemd-logind[1172]: Removed session 223.
+Dec 26 22:23:24 ubuntu-linux-2404 sshd[101890]: Accepted password for user2 from 10.211.55.3 port 37502 ssh2
+Dec 26 22:23:24 ubuntu-linux-2404 sshd[101890]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:24 ubuntu-linux-2404 systemd-logind[1172]: New session 224 of user user2.
+Dec 26 22:23:24 ubuntu-linux-2404 systemd[1]: Started session-224.scope - Session 224 of User user2.
+Dec 26 22:23:24 ubuntu-linux-2404 wireplumber[99107]: BlueZ system service is not available
+Dec 26 22:23:24 ubuntu-linux-2404 sshd[101890]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:24 ubuntu-linux-2404 systemd[1]: session-224.scope: Deactivated successfully.
+Dec 26 22:23:24 ubuntu-linux-2404 systemd-logind[1172]: Session 224 logged out. Waiting for processes to exit.
+Dec 26 22:23:24 ubuntu-linux-2404 systemd-logind[1172]: Removed session 224.
+Dec 26 22:23:24 ubuntu-linux-2404 sshd[101963]: Accepted password for user2 from 10.211.55.3 port 37514 ssh2
+Dec 26 22:23:24 ubuntu-linux-2404 sshd[101963]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:24 ubuntu-linux-2404 systemd-logind[1172]: New session 225 of user user2.
+Dec 26 22:23:24 ubuntu-linux-2404 systemd[1]: Started session-225.scope - Session 225 of User user2.
+Dec 26 22:23:24 ubuntu-linux-2404 wireplumber[99107]: BlueZ system service is not available
+Dec 26 22:23:24 ubuntu-linux-2404 sshd[102028]: Accepted password for user2 from 10.211.55.3 port 37528 ssh2
+Dec 26 22:23:24 ubuntu-linux-2404 sshd[102028]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:24 ubuntu-linux-2404 systemd-logind[1172]: New session 226 of user user2.
+Dec 26 22:23:24 ubuntu-linux-2404 systemd[1]: Started session-226.scope - Session 226 of User user2.
+Dec 26 22:23:24 ubuntu-linux-2404 sshd[101963]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:24 ubuntu-linux-2404 systemd[1]: session-225.scope: Deactivated successfully.
+Dec 26 22:23:24 ubuntu-linux-2404 systemd-logind[1172]: Session 225 logged out. Waiting for processes to exit.
+Dec 26 22:23:24 ubuntu-linux-2404 systemd-logind[1172]: Removed session 225.
+Dec 26 22:23:24 ubuntu-linux-2404 sshd[102094]: Accepted password for user2 from 10.211.55.3 port 37534 ssh2
+Dec 26 22:23:24 ubuntu-linux-2404 sshd[102094]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:24 ubuntu-linux-2404 systemd-logind[1172]: New session 227 of user user2.
+Dec 26 22:23:24 ubuntu-linux-2404 systemd[1]: Started session-227.scope - Session 227 of User user2.
+Dec 26 22:23:24 ubuntu-linux-2404 sshd[102028]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:24 ubuntu-linux-2404 systemd[1]: session-226.scope: Deactivated successfully.
+Dec 26 22:23:24 ubuntu-linux-2404 systemd-logind[1172]: Session 226 logged out. Waiting for processes to exit.
+Dec 26 22:23:24 ubuntu-linux-2404 systemd-logind[1172]: Removed session 226.

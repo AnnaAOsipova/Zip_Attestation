@@ -1,0 +1,42 @@
+Jan 06 07:58:46 ubuntu-linux-2404 kernel: usb 3-1: USB disconnect, device number 2
+-- Boot 1b3ad6844ae0499abd62e44785db4c66 --
+Dec 26 22:23:36 ubuntu-linux-2404 sshd[103029]: Accepted password for user2 from 10.211.55.3 port 33224 ssh2
+Dec 26 22:23:36 ubuntu-linux-2404 sshd[103029]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:36 ubuntu-linux-2404 systemd-logind[1172]: New session 240 of user user2.
+Dec 26 22:23:36 ubuntu-linux-2404 systemd[1]: Started session-240.scope - Session 240 of User user2.
+Dec 26 22:23:36 ubuntu-linux-2404 wireplumber[99107]: BlueZ system service is not available
+Dec 26 22:23:36 ubuntu-linux-2404 sshd[103087]: Accepted password for user2 from 10.211.55.3 port 33232 ssh2
+Dec 26 22:23:36 ubuntu-linux-2404 sshd[103087]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:36 ubuntu-linux-2404 systemd-logind[1172]: New session 241 of user user2.
+Dec 26 22:23:36 ubuntu-linux-2404 systemd[1]: Started session-241.scope - Session 241 of User user2.
+Dec 26 22:23:36 ubuntu-linux-2404 sshd[103029]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:36 ubuntu-linux-2404 systemd[1]: session-240.scope: Deactivated successfully.
+Dec 26 22:23:36 ubuntu-linux-2404 systemd-logind[1172]: Session 240 logged out. Waiting for processes to exit.
+Dec 26 22:23:36 ubuntu-linux-2404 systemd-logind[1172]: Removed session 240.
+Dec 26 22:23:36 ubuntu-linux-2404 sshd[103087]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:36 ubuntu-linux-2404 systemd[1]: session-241.scope: Deactivated successfully.
+Dec 26 22:23:36 ubuntu-linux-2404 systemd-logind[1172]: Session 241 logged out. Waiting for processes to exit.
+Dec 26 22:23:36 ubuntu-linux-2404 systemd-logind[1172]: Removed session 241.
+Dec 26 22:23:36 ubuntu-linux-2404 sshd[103151]: Accepted password for user2 from 10.211.55.3 port 33246 ssh2
+Dec 26 22:23:36 ubuntu-linux-2404 sshd[103151]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:36 ubuntu-linux-2404 systemd-logind[1172]: New session 242 of user user2.
+Dec 26 22:23:36 ubuntu-linux-2404 systemd[1]: Started session-242.scope - Session 242 of User user2.
+Dec 26 22:23:36 ubuntu-linux-2404 wireplumber[99107]: BlueZ system service is not available
+Dec 26 22:23:36 ubuntu-linux-2404 sshd[103151]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:36 ubuntu-linux-2404 systemd[1]: session-242.scope: Deactivated successfully.
+Dec 26 22:23:36 ubuntu-linux-2404 systemd-logind[1172]: Session 242 logged out. Waiting for processes to exit.
+Dec 26 22:23:36 ubuntu-linux-2404 systemd-logind[1172]: Removed session 242.
+Dec 26 22:23:36 ubuntu-linux-2404 sshd[103218]: Accepted password for user2 from 10.211.55.3 port 33254 ssh2
+Dec 26 22:23:36 ubuntu-linux-2404 sshd[103218]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:36 ubuntu-linux-2404 systemd-logind[1172]: New session 243 of user user2.
+Dec 26 22:23:37 ubuntu-linux-2404 systemd[1]: Started session-243.scope - Session 243 of User user2.
+Dec 26 22:23:37 ubuntu-linux-2404 wireplumber[99107]: BlueZ system service is not available
+Dec 26 22:23:37 ubuntu-linux-2404 sshd[103218]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:23:37 ubuntu-linux-2404 systemd[1]: session-243.scope: Deactivated successfully.
+Dec 26 22:23:37 ubuntu-linux-2404 systemd-logind[1172]: Session 243 logged out. Waiting for processes to exit.
+Dec 26 22:23:37 ubuntu-linux-2404 systemd-logind[1172]: Removed session 243.
+Dec 26 22:23:37 ubuntu-linux-2404 sshd[103282]: Accepted password for user2 from 10.211.55.3 port 33270 ssh2
+Dec 26 22:23:37 ubuntu-linux-2404 sshd[103282]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:23:37 ubuntu-linux-2404 systemd-logind[1172]: New session 244 of user user2.
+Dec 26 22:23:37 ubuntu-linux-2404 systemd[1]: Started session-244.scope - Session 244 of User user2.
+Dec 26 22:23:37 ubuntu-linux-2404 wireplumber[99107]: BlueZ system service is not available

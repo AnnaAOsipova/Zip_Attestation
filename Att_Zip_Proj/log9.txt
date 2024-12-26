@@ -1,0 +1,31 @@
+Jan 06 07:58:46 ubuntu-linux-2404 kernel: usb 3-1: USB disconnect, device number 2
+-- Boot 1b3ad6844ae0499abd62e44785db4c66 --
+Dec 26 22:22:59 ubuntu-linux-2404 systemd[1]: Started session-186.scope - Session 186 of User user2.
+Dec 26 22:22:59 ubuntu-linux-2404 sshd[99197]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:22:59 ubuntu-linux-2404 systemd[1]: session-185.scope: Deactivated successfully.
+Dec 26 22:22:59 ubuntu-linux-2404 systemd-logind[1172]: Session 185 logged out. Waiting for processes to exit.
+Dec 26 22:22:59 ubuntu-linux-2404 systemd-logind[1172]: Removed session 185.
+Dec 26 22:22:59 ubuntu-linux-2404 sshd[99328]: Accepted password for user2 from 10.211.55.3 port 44574 ssh2
+Dec 26 22:22:59 ubuntu-linux-2404 sshd[99328]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:22:59 ubuntu-linux-2404 systemd-logind[1172]: New session 187 of user user2.
+Dec 26 22:22:59 ubuntu-linux-2404 systemd[1]: Started session-187.scope - Session 187 of User user2.
+Dec 26 22:22:59 ubuntu-linux-2404 sshd[99262]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:22:59 ubuntu-linux-2404 systemd-logind[1172]: Session 186 logged out. Waiting for processes to exit.
+Dec 26 22:22:59 ubuntu-linux-2404 systemd[1]: session-186.scope: Deactivated successfully.
+Dec 26 22:22:59 ubuntu-linux-2404 systemd-logind[1172]: Removed session 186.
+Dec 26 22:22:59 ubuntu-linux-2404 sshd[99395]: Accepted password for user2 from 10.211.55.3 port 44580 ssh2
+Dec 26 22:22:59 ubuntu-linux-2404 sshd[99395]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:22:59 ubuntu-linux-2404 systemd-logind[1172]: New session 188 of user user2.
+Dec 26 22:22:59 ubuntu-linux-2404 systemd[1]: Started session-188.scope - Session 188 of User user2.
+Dec 26 22:22:59 ubuntu-linux-2404 sshd[99328]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:22:59 ubuntu-linux-2404 systemd[1]: session-187.scope: Deactivated successfully.
+Dec 26 22:22:59 ubuntu-linux-2404 systemd-logind[1172]: Session 187 logged out. Waiting for processes to exit.
+Dec 26 22:22:59 ubuntu-linux-2404 systemd-logind[1172]: Removed session 187.
+Dec 26 22:22:59 ubuntu-linux-2404 sshd[99471]: Accepted password for user2 from 10.211.55.3 port 44584 ssh2
+Dec 26 22:22:59 ubuntu-linux-2404 sshd[99471]: pam_unix(sshd:session): session opened for user user2(uid=1001) by user2(uid=0)
+Dec 26 22:22:59 ubuntu-linux-2404 systemd-logind[1172]: New session 189 of user user2.
+Dec 26 22:22:59 ubuntu-linux-2404 systemd[1]: Started session-189.scope - Session 189 of User user2.
+Dec 26 22:22:59 ubuntu-linux-2404 sshd[99395]: pam_unix(sshd:session): session closed for user user2
+Dec 26 22:22:59 ubuntu-linux-2404 systemd[1]: session-188.scope: Deactivated successfully.
+Dec 26 22:22:59 ubuntu-linux-2404 systemd-logind[1172]: Session 188 logged out. Waiting for processes to exit.
+Dec 26 22:22:59 ubuntu-linux-2404 systemd-logind[1172]: Removed session 188.
