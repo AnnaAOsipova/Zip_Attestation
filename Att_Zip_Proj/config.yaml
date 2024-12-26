@@ -1,0 +1,11 @@
+folder_in: /home/user2/tst
+folder_out: /home/user2/out
+folder_ext:  /home/user2/folder1
+folder_ext2: /home/user2/folder2
+count: 5
+ip: 10.211.55.3
+user: user2
+passwd: "1234"
+pkgname: p7zip-full
+type: 7z
+bs: 1M
